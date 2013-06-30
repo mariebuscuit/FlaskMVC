@@ -1,0 +1,7 @@
+h1. FlaskMVC
+
+h2. Installation
+
+<pre>
+pip install Flask
+</pre>
